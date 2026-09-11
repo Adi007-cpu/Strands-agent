@@ -1,0 +1,12 @@
+{
+  "vendor": "Cafe Coffee Day",
+  "amount": 270.0,
+  "date": "2026-08-26",
+  "items": [
+    {
+      "name": "Pen Set",
+      "qty": 3,
+      "unit_price": 90
+    }
+  ]
+}

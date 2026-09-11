@@ -1,0 +1,12 @@
+{
+  "vendor": "Reliance Fresh",
+  "amount": 180.0,
+  "date": "2026-09-10",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": 180
+    }
+  ]
+}

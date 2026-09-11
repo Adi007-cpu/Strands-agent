@@ -1,0 +1,12 @@
+{
+  "vendor": "Cafe Coffee Day",
+  "amount": 540.0,
+  "date": "2026-09-07",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": 180
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "vendor": "Spice Route Restaurant",
+  "amount": 695.0,
+  "date": "2026-08-20",
+  "items": [
+    {
+      "name": "Pen Set",
+      "qty": 1,
+      "unit_price": 90
+    },
+    {
+      "name": "Groceries Pack",
+      "qty": 1,
+      "unit_price": 320
+    },
+    {
+      "name": "Milk 1L",
+      "qty": 3,
+      "unit_price": 55
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": 60
+    }
+  ]
+}
